@@ -4,7 +4,7 @@ Entry for NUS CS3244 Machine Learning's Kaggle Competition.
 
 Task is to predict sales given historical data.
 
-I placed 2nd on [leaderboard](https://www.kaggle.com/c/cs3244-rossmann-store-sales/leaderboard) (id falconets).
+I placed 2nd on the [leaderboard](https://www.kaggle.com/c/cs3244-rossmann-store-sales/leaderboard) (id falconets).
 
 **Running**
 
