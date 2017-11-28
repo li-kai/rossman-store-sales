@@ -10,6 +10,10 @@ I placed 2nd on the [leaderboard](https://www.kaggle.com/c/cs3244-rossmann-store
 
 You would need to install jupyter notebooks, sklearn, pandas and xgboost.
 
+## Informal Report
+
+Below is the informal report I wrote for the school assignment.
+
 **Data Exploration**
 
 I first explored the data for insights. (Please refer to the ipynb for graphs)
